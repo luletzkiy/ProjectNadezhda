@@ -35,6 +35,7 @@
 
         $ python app.py   
 
+[Видео с презентацией работы сайта](https://disk.yandex.ru/i/kJqLBfx2ZUwztA)
 ## Зависимости:
   + Python
   + Flask
